@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MedAlert</string>
+    <string name="Button">Go!</string>
+    <string name="logo_description">MedAlert</string>
+</resources>

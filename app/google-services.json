@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "637300348434",
+    "project_id": "medalert-87468",
+    "storage_bucket": "medalert-87468.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637300348434:android:84f3079f181d42d4a5eacb",
+        "android_client_info": {
+          "package_name": "com.example.medalert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAExWbEBf0vE9NN-iozeUSaKKhXOXSLQNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
